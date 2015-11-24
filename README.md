@@ -11,8 +11,8 @@ Scenario to automate:
 -  5. Validate that item added is present in the cart and is the only item in the cart
 
 Test Data:
--  1.Account: nali.nyupoly@gmail.com 
-     Password: lina19880809
+-  1. Account: nali.nyupoly@gmail.com 
+      Password: lina19880809
 -  2. Search terms: tv, socks, dvd, toys, iPhone
 
 ### Software Installation
