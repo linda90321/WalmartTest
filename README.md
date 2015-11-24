@@ -1,20 +1,19 @@
 # WalmartTest
-webdriver automation test
 
 ### Description 
 Automate an end-to-end user e-commerce transaction flow using any open source tool for www.walmart.com with an existing customer on Chrome or Safari browser.
 
 Scenario to automate:
-1. Login using existing account
-2. Perform a search on home page from a pool of key words given below
-3. Identify an item from the result set that you can add to cart
-4. Add the item to cart
-5. Validate that item added is present in the cart and is the only item in the cart
+-  1. Login using existing account
+-  2. Perform a search on home page from a pool of key words given below
+-  3. Identify an item from the result set that you can add to cart
+-  4. Add the item to cart
+-  5. Validate that item added is present in the cart and is the only item in the cart
 
 Test Data:
-• Account: nali.nyupoly@gmail.com 
-  Password: lina19880809
-• Search terms: tv, socks, dvd, toys, iPhone
+-  1.Account: nali.nyupoly@gmail.com 
+-   Password: lina19880809
+-  2. Search terms: tv, socks, dvd, toys, iPhone
 
 ### Software Installation
 The following tools must install before you running the code. 
