@@ -12,7 +12,7 @@ Scenario to automate:
 
 Test Data:
 -  1.Account: nali.nyupoly@gmail.com 
--   Password: lina19880809
+     Password: lina19880809
 -  2. Search terms: tv, socks, dvd, toys, iPhone
 
 ### Software Installation
